@@ -2,7 +2,7 @@
   "name": "webauth-i-challenge",
   "version": "1.0.0",
   "description": "- Authentication.\r - Express Middleware.\r - Password Hashing.\r - Sessions\r - Cookies",
-  "main": "index.js",
+  "main": "./server/index.js",
   "scripts": {
     "server": "nodemon ./server/index.js",
     "start": "node ./server/index.js"
